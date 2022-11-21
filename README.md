@@ -1,2 +1,0 @@
-# mauriciopiccini.github.io
-Website
