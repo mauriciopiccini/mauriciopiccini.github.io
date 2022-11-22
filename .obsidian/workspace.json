@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "696559f684c0de3e",
+        "id": "8783ab25f3131aed",
         "type": "tabs",
         "children": [
           {
-            "id": "3bdc9831c91128a2",
+            "id": "d06987092fdb69fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,6 +128,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3bdc9831c91128a2",
-  "lastOpenFiles": []
+  "active": "d06987092fdb69fe",
+  "lastOpenFiles": [
+    "README.md"
+  ]
 }
