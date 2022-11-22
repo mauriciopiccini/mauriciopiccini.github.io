@@ -1,7 +1,8 @@
-Funciona como Index.html?
+# Maurício da Silveira Piccini
+## Porto Alegre, 42 anos
+### Programador com Doutorado em Letras
 
-# Testando 123
-## Testando 123
-### Testando 123 de novo
+[Twitter](https://twitter.com/mauriciopiccini)
+[Medium](https://mauriciopiccini.medium.com)
+[Mastodon](https://mastodon.social/@mauriciopiccini)
 
-Até onde eu posso criar coisas aqui?
