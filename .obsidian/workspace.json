@@ -15,7 +15,25 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d1fb80006f7eac2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfeae72741f61c17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
