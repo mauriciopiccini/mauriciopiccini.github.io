@@ -15,27 +15,52 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
-            }
+            },
+            "group": "2fc9da93d63b158f"
           }
         ]
       },
       {
-        "id": "d1fb80006f7eac2e",
+        "id": "7f88e2522042b09f",
         "type": "tabs",
         "children": [
           {
-            "id": "cfeae72741f61c17",
+            "id": "2b5f9114cdf7d642",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "localgraph",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
-                "source": true
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
               }
-            }
+            },
+            "group": "2fc9da93d63b158f"
           }
         ]
       }
@@ -87,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "657c1e5c9ad9e4bd",

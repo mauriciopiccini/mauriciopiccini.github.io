@@ -1,6 +1,6 @@
 # Maurício da Silveira Piccini
 ## Porto Alegre, 42 anos
-### Programador com Doutorado em Letras
+## Programador com Doutorado em Letras
 
 [Twitter](https://twitter.com/mauriciopiccini) | [Medium](https://mauriciopiccini.medium.com) | [Mastodon](https://mastodon.social/@mauriciopiccini)
 
@@ -14,18 +14,18 @@
 	- Depoimento reduzido a termo da bruxa Lila sobre desaparecimento das freiras de Quaraí
 	- Relacionamento na Era Pré-Tinder
 
-- [Sobre “O Vilarejo”, de Raphael Montes, sete demônios e a culpa do outro](mauriciopiccini.medium.com/sobre-o-vilarejo-de-raphael-montes-sete-demonios-e-a-culpa-do-outro-8fad4c7f975d)
+- [Sobre “O Vilarejo”, de Raphael Montes, sete demônios e a culpa do outro](http://mauriciopiccini.medium.com/sobre-o-vilarejo-de-raphael-montes-sete-demonios-e-a-culpa-do-outro-8fad4c7f975d)
 
 ### Gamificação
 
 - [Salário emocional não motiva](https://www.linkedin.com/pulse/salário-emocional-não-motiva-maurício-piccini/) (LinkedIn)
-- [Fundação Casa dos Sonhos](fundacaocasadossonhos.com)
+- [Fundação Casa dos Sonhos](http://fundacaocasadossonhos.com)
 - [Um Relato do Processo de Gamificação em Projeto Social para a ONG Casa dos Sonhos](https://www.sbgames.org/sbgames2018/files/papers/EducacaoShort/188272.pdf) (SBGames 2018)
 
 ### Programação
 
 HQ Interativa
-- So Close, Faraway!
+- [So Close, Faraway!](https://augustopaim.com.br/pt/hq-reportagem-so-close-faraway/)
 
 Sites
 - [Itinerários de Leitura](http://itinerariosdeleitura.com.br)
