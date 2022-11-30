@@ -37,7 +37,7 @@ Sites
 
 ### Editoração Eletrônica
 
-[Fundação Casa dos Sonhos](https://fundacaocasadossonhos.comOB)
+[Fundação Casa dos Sonhos](https://fundacaocasadossonhos.com)
 - Lembranças 2021
 - Lembranças 2020
 - Lembranças 2019
