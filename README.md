@@ -21,11 +21,11 @@ freiras de Quaraí
 - Um Relato do Processo de Gamificação em Projeto Social para a ONG Casa dos Sonhos ([SBGames 2018](https://www.sbgames.org/sbgames2018/files/papers/EducacaoShort/188272.pdf))
 3. **Programação**
 
-3.1 HQ Interativa
+a. HQ Interativa
 
 - [So Close, Faraway!](https://augustopaim.com.br/pt/hq-reportagem-so-close-faraway/)
 
-3.2 Sites
+b. Sites
 
 - [Itinerários de Leitura](http://itinerariosdeleitura.com.br)
 - [Interstícios: Literatura Juvenil em Pauta](http://literaturajuvenilempauta)

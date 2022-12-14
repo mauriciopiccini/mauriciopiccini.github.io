@@ -1,0 +1,207 @@
+[[Casa]]:
+
+Era uma vez uma menina triste chamada [Cinderela].
+
+[Cinderela]:
+
+Fala sobre o [Pai].
+
+[Pai]:
+
+Fala sobre o [Caminho].
+
+[Caminho]:
+
+Fala sobre o [Graveto].
+Fala sobre o [Retorno].
+
+[Graveto]:
+
+Fala sobre o [Retorno].
+
+[Retorno]:
+
+Termina e fala sobre a [[Árvore]].
+
+[[Árvore]]:
+
+Fala sobre a [filha1], se tem graveto, ou sobre a [filha2], se não tem graveto.
+
+[filha1]:
+
+Fala sobre a [mãe1].
+
+[mãe1]:
+
+Fala sobre [cresce].
+
+[cresce]:
+
+Finaliza e fala sobre [[Interior da Casa]].
+
+[filha2]:
+
+Fala sobre [mãe2].
+
+[mãe2]:
+
+Fala sobre [passarinhos].
+
+[passarinhos]:
+
+Fala sobre [[Interior da Casa]].
+
+[[Interior da Casa]]:
+
+Inicia um dos três jogos: [jogo1] ou [jogo2] ou [jogo3].
+
+[jogo1]:
+
+Fala sobre [Fuligem].
+
+[Fuligem]:
+
+Termina e vai para [[Quintal]].
+
+[jogo2]:
+
+Fala sobre [Ervilhas].
+
+[Ervilhas]:
+
+Termina e vai para [[Quintal]].
+
+[jogo3]:
+
+Fala sobre [Roupas Irmãs].
+
+[Roupas Irmãs]:
+
+Termina e vai para [[Quintal]].
+
+[[Quintal]]:
+
+Fala sobre [Fada Madrinha].
+
+[Fada Madrinha]:
+
+Fala sobre [Vestido].
+Fala sobre [Meia Noite].
+Fala sobre [Carruagem].
+
+[Vestido]:
+
+Termina e fala sobre [[Festa]].
+
+[Meia Noite]:
+
+Termina e fala sobre [[Festa]].
+
+[Carruagem]:
+
+Termina e fala sobre [[Festa]].
+
+[[Festa]]:
+
+Fala sobre [Dança].
+
+[Dançar]:
+
+Fala sobre [Príncipe].
+
+[Príncipe]:
+
+Fala sobre [Relógio].
+
+[Relógio]:
+
+Termina e fala sobre [[Fuga]].
+
+[[Fuga]]:
+
+Escolha uma fuga: [fuga1] ou [fuga2] ou [fuga3].
+
+[Fuga1]:
+
+Fala sobre [Casa da Árvore].
+
+[Casa da Árvore]:
+
+Termina e fala sobre [[Sapatinho]].
+
+[Fuga2]:
+
+Fala sobre [Galinheiro].
+
+[Galinheiro]:
+
+Termina e fala sobre [[Sapatinho]].
+
+[Fuga3]:
+
+Fala sobre [Pixe].
+
+[Pixe]:
+
+Fala sobre [Escadaria].
+
+[Escadaria]:
+
+Termina e fala sobre [[Sapatinho]].
+
+[[Sapatinho]]:
+
+Fala sobre [Encontrou].
+
+[Encontrou]:
+
+Fala sobre [Irmã1].
+Fala sobre [Irmã2].
+Fala sobre [Borralheira].
+
+[Irmã1]:
+
+Termina e fala sobre [[Epílogo]].
+
+[Irmã2]:
+
+Termina e fala sobre [[Epílogo]].
+
+[Borralheira]:
+
+Termina e fala sobre [[Epílogo]].
+
+[[Epílogo]]:
+
+Escolhe entre [Punicões] e [Casamento].
+
+[Punicões]:
+
+Fala sobre [Cega].
+Fala sobre [Amas de Companhia].
+Fala sobre [Esquecimento].
+
+[Cega]:
+
+Termina e fala sobre [[Legendas]].
+
+[Amas de Companhia]:
+
+Termina e fala sobre [[Legendas]].
+
+[Esquecimento]:
+
+Termina e fala sobre [[Legendas]].
+
+[Casamento]:
+
+Fala sobre [Viveram Felizes].
+
+[Viveram Felizes]:
+
+Termina e fala sobre [[Legendas]].
+
+[[Legendas]]:
+
+Sobem as legendas
+
