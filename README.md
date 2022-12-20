@@ -9,10 +9,10 @@ Programador com Doutorado em Letras
 1. **Escrita Criativa**
 - [O que é essa tal "Revista Trasgo"](https://mauriciopiccini.medium.com/o-que-é-essa-tal-revista-trasgo-resenha-descritiva-dos-textos-pré-linguísticos-do-terceiro-planeta-5ed60a9ae223): resenha descritiva dos textos pré- linguísticos do terceiro planeta encontrados nas ruínas de Europa
 - Revista [Faísca Mafagafo](https://mafagaforevista.com.br)
-- [Alienação no Trabalho](https://mailchi.mp/mafagaforevista/faiscat4e02), Temporada 4, Episódio 2
-- [Taumar, Enguidor e Macilon](https://mailchi.mp/c834dfaf9c47/faiscat3e10), Temporada 3, Episódio 10
-- [Depoimento reduzido a termo da bruxa Lila sobre desaparecimento das freiras de Quaraí](https://mailchi.mp/f0d75c179a09/faiscat2e25), Temporada 2, Episódio 25
-- [Relacionamento na Era Pré-Tinder](https://mailchi.mp/mafagaforevista/faiscat5e16mais1), Temporada 1, Episódio 16+1
+  - [Alienação no Trabalho](https://mailchi.mp/mafagaforevista/faiscat4e02), Temporada 4, Episódio 2
+  - [Taumar, Enguidor e Macilon](https://mailchi.mp/c834dfaf9c47/faiscat3e10), Temporada 3, Episódio 10
+  - [Depoimento reduzido a termo da bruxa Lila sobre desaparecimento das freiras de Quaraí](https://mailchi.mp/f0d75c179a09/faiscat2e25), Temporada 2, Episódio 25
+  - [Relacionamento na Era Pré-Tinder](https://mailchi.mp/mafagaforevista/faiscat5e16mais1), Temporada 1, Episódio 16+1
 - [Sobre "O Vilarejo", de Raphael Montes](http://mauriciopiccini.medium.com/sobre-o-vilarejo-de-raphael-montes-sete-demonios-e-a-culpa-do-outro-8fad4c7f975d), sete demônios e a culpa do outro
 2. **Gamificação**
 - Salário emocional não motiva ([LinkedIn](https://www.linkedin.com/pulse/salário-emocional-não-motiva-maurício-piccini/))
