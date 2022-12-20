@@ -695,7 +695,7 @@ squiffy.story.sections = {
 	'Festa': {
 		'text': "<p>Fala sobre <a class=\"squiffy-link link-passage\" data-passage=\"Dança\" role=\"link\" tabindex=\"0\">Dança</a>.</p>",
 		'passages': {
-			'Dançar': {
+			'Dança': {
 				'text': "<p>Fala sobre <a class=\"squiffy-link link-passage\" data-passage=\"Príncipe\" role=\"link\" tabindex=\"0\">Príncipe</a>.</p>",
 			},
 			'Príncipe': {
