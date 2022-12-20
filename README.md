@@ -28,16 +28,16 @@ b. Sites
 
 - [Itinerários de Leitura](http://itinerariosdeleitura.com.br)
 - [Interstícios: Literatura Juvenil em Pauta](http://literaturajuvenilempauta)
-- [Jogos de Ler](http://jogosdeler.com.br)
-- [Tecelina](http://jogosdeler.com.br/tecelina)
-- [A boneca](http://jogosdeler.com.br/aboneca)
-- [Dado Mágico](http://jogosdeler.com.br/dadomagico)
+  - [Jogos de Ler](http://jogosdeler.com.br)
+  - [Tecelina](http://jogosdeler.com.br/tecelina)
+  - [A boneca](http://jogosdeler.com.br/aboneca)
+  - [Dado Mágico](http://jogosdeler.com.br/dadomagico)
 4. **Editoração Eletrônica**
 - [Fundação Casa dos Sonhos](https://fundacaocasadossonhos.com)
-- Lembranças 2021
-- Lembranças 2020
-- Lembranças 2019
-- Lembranças 2018
-- Lembranças 2017
-- Lembranças 2016
+  - Lembranças 2021
+  - Lembranças 2020
+  - Lembranças 2019
+  - Lembranças 2018
+  - Lembranças 2017
+  - Lembranças 2016
 
