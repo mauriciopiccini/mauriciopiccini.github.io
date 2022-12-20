@@ -28,7 +28,7 @@ b. Sites
 
 - [Itinerários de Leitura](http://itinerariosdeleitura.com.br)
 - [Interstícios: Literatura Juvenil em Pauta](http://literaturajuvenilempauta)
-  - [Jogos de Ler](http://jogosdeler.com.br)
+- [Jogos de Ler](http://jogosdeler.com.br)
   - [Tecelina](http://jogosdeler.com.br/tecelina)
   - [A boneca](http://jogosdeler.com.br/aboneca)
   - [Dado Mágico](http://jogosdeler.com.br/dadomagico)
