@@ -35,7 +35,7 @@ b. Sites
   - [A boneca](http://jogosdeler.com.br/aboneca)
   - [Dado Mágico](http://jogosdeler.com.br/dadomagico)
 
-4- **Editoração Eletrônica**
+4. **Editoração Eletrônica**
 
 - [Fundação Casa dos Sonhos](https://fundacaocasadossonhos.com)
   - Lembranças 2021
