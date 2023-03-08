@@ -7,7 +7,7 @@ Programador com Doutorado em Letras
 ---
 
 1. **Escrita Criativa**
--  (Sobre Snowglobe, de Fábio M. Barreto)[https://mauriciopiccini.medium.com/sobre-snowglobe-de-f%C3%A1bio-barreto-entre-fic%C3%A7%C3%B5es-773d9cf698d5]: entre ficções 
+-  [Sobre Snowglobe, de Fábio M. Barreto](https://mauriciopiccini.medium.com/sobre-snowglobe-de-f%C3%A1bio-barreto-entre-fic%C3%A7%C3%B5es-773d9cf698d5): entre ficções 
 - [O que é essa tal "Revista Trasgo"](https://mauriciopiccini.medium.com/o-que-é-essa-tal-revista-trasgo-resenha-descritiva-dos-textos-pré-linguísticos-do-terceiro-planeta-5ed60a9ae223): resenha descritiva dos textos pré- linguísticos do terceiro planeta encontrados nas ruínas de Europa (crítica)
 - Revista [Faísca Mafagafo](https://mafagaforevista.com.br)
   - [Alienação no Trabalho](https://mailchi.mp/mafagaforevista/faiscat4e02), Temporada 4, Episódio 2
